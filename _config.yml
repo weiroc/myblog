@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 permalink: /:categories/:year/:month/:day/:title:output_ext
+site: https://weiroc.github.io/myblog/
