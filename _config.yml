@@ -3,3 +3,5 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 site: https://weiroc.github.io/myblog/
 source: https://weiroc.github.io/myblog/
 paginate: 3
+baseurl: myblog/
+
