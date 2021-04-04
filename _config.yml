@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
 paginate: 3
 baseurl: myblog/
 url: weiroc.github.io
