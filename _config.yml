@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
 paginate: 3
-baseurl: myblog/
+baseurl: /myblog
 url: "weiroc.github.io"
 
