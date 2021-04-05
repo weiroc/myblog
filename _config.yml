@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 root: "weiroc.github.io/myblog"
 paginate: 3
-baseurl: "myblog/"
+baseurl: /myblog
 url: " "
 lsi: false
 safe: true
