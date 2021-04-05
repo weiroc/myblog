@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-
+root: "weiroc.github.io/myblog"
 paginate: 3
 baseurl: "myblog/"
-url: "weiroc.github.io"
+url: " "
 lsi: false
 safe: true
 source: https://github.com/weiroc/myblog
