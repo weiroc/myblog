@@ -3,4 +3,14 @@ theme: jekyll-theme-cayman
 paginate: 3
 baseurl: /myblog
 url: "weiroc.github.io"
+lsi: false
+safe: true
+source: https://github.com/weiroc/myblog
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
